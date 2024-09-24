@@ -1,0 +1,56 @@
+19:33:43.703 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:33:43.709 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@3bbf1c0d
+19:35:20.596 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:35:20.602 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@19662208
+19:37:10.763 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:37:10.769 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@3bbf1c0d
+19:38:00.275 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:38:00.280 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@38159384
+19:53:55.329 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:53:55.334 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@723e2d08
+19:56:36.857 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:56:36.863 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@3002e397
+20:23:54.505 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+20:23:54.511 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@38159384
+20:45:32.169 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+20:45:32.175 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@7da1e005
+14:08:51.246 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:08:51.252 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@38159384
+14:10:35.259 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:10:35.265 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@723e2d08
+14:11:46.451 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:11:46.581 [main] ERROR steps.DatabaseSteps - [Ljava.lang.StackTraceElement;@19b5214b
+14:14:12.268 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:15:33.631 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:20:24.417 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:21:47.508 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+14:23:52.412 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:30:28.655 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:35:06.731 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:39:12.196 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:41:21.174 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:41:37.900 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:46:43.436 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:55:14.035 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+16:58:16.110 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+17:13:52.834 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+17:16:13.492 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+17:18:22.087 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+17:22:55.805 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+17:23:39.829 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:20:02.852 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:10:52.485 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:13:00.757 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:16:35.256 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:16:42.878 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:16:58.166 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:17:01.017 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:34:16.550 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+19:34:19.383 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:00:52.236 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:01:04.230 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:01:07.147 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:04:44.417 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:05:08.022 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:05:10.807 [main] INFO  steps.DatabaseSteps - User successful; setup connection
+21:07:37.349 [main] INFO  steps.DatabaseSteps - User successful; setup connection
